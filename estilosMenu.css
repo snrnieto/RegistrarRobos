@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 8px;
+    background:#1E935E;
+
+}
+
+.container{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+    border-radius:8px;
+    padding: 20px;
+}
+h1{
+    font-size: 70px;
+    color: white;
+}
+.btnRegistrar{
+    background-color:#D92525;
+}
+.btnVer{
+    background-color:rgb(233, 146, 15);
+}

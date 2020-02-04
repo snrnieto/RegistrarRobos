@@ -1,0 +1,32 @@
+html, body
+{
+ height: 100%;
+ padding: 0;
+ margin: 0;
+ background:#c2c2c2;
+}
+ h1
+ {
+   text-align: center;
+   color:white;
+   font-size: 28px;
+   margin:0;
+   background-color: #1E935E;
+ }
+#map
+{
+ width: 100%;
+ height: 100%;
+}
+
+button
+{
+ color:white;
+ font-size: 30px;
+ background-color: #008CBA;
+ border-radius: 12px;
+ text-align:center;
+ width:99.9%;
+ height: 10%;
+}
+
